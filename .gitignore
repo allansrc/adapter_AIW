@@ -1,0 +1,9 @@
+.DS_Store
+DerivedData
+build
+xcuserdata
+xcshareddata
+project.xcworkspace
+*.txt
+load-remote.sh
+out
